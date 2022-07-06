@@ -1,6 +1,0 @@
-#ifndef ALX_FILE
-#define ALX_FILE
-
-void positive_or_negative(int i);
-
-#endif
