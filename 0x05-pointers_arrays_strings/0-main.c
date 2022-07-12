@@ -8,7 +8,7 @@
  */
 
 int main(void)
-{  
+{
   int n;
   
   n = 402;
