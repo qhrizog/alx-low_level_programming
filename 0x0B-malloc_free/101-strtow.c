@@ -65,7 +65,7 @@ return (NULL);
 
 for (k = 0; k < (len - 1);  k++)
 {
-*(col + k) =*(str++);
+*(col + k) = *(str++);
 }
 *(col + k) = '\0';
 *(f + j) = col;
